@@ -26,6 +26,6 @@
 
   <br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/josimaros/josimaros/blob/output/github-contribution-grid-snake.svg">
-  ![Snake animation](https://github.com/josimaros/josimaros/blob/output/github-contribution-grid-snake.svg)
+  ![teste](https://warsaw.com.br/wp-content/uploads/2020/09/teste.png)
  
 </div>
