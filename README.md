@@ -1,5 +1,7 @@
 ## Olá eu sou Josimar Silva.
 
+Nascido no ano de 1988 no dia 19 de outubro, nascido em fortaleza no ceara. Hoje trabalho com desenvolvimento em uma empresa de automação comercial onde utilizo as linguagens javascript com os framework react e react-native. Mais já atuei com java (não gosto muito, trauma da faculdade eu acho) mais já trabalhei com delphi nessa mesma empresa quando cheguei.
+
 <br />
 <div>
   <a href="https://github.com/josimaros">
