@@ -28,6 +28,5 @@ Nascido no ano de 1988 no dia 19 de outubro, nascido em fortaleza no ceara. Hoje
 
   <br>
   <img align="center" alt="cobrinha" src="https://github.com/josimaros/josimaros/blob/output/github-contribution-grid-snake.svg">
-  ![teste](https://warsaw.com.br/wp-content/uploads/2020/09/teste.png)
  
 </div>
