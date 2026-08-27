@@ -53,14 +53,7 @@
 
 ### 📊 GitHub Dashboard
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josimaros&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josimaros&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.tech/demo/?user=josimaros&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
